@@ -2,6 +2,7 @@
   "name":"saikillua/scanner",
   "description":"sorry for test",
   "keywords": ["franklu"],
+  "homepage":"https://github.com/saikillua98/scanner.git",
   "license":"MIT",
   "authors":[
     {
@@ -23,7 +24,7 @@
     "league/csv":"~6.0"
   },
   "autoload":{
-    "psr-4":{
+    "psr-0":{
       "Saikillua\\Scanner\\":"src/"
     }
   }
