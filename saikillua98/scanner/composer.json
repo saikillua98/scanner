@@ -2,17 +2,15 @@
   "name":"saikillua/scanner",
   "description":"sorry for test",
   "keywords": ["franklu"],
-  "homepage":"",
   "license":"MIT",
   "authors":[
     {
-      "name":"Frank lu",
-      "homepage":"",
+      "name":"Franklu",
       "role":"owner"
     }
   ],
-  "suppoer":{
-    "email":""
+  "support":{
+    "email":"289803142@qq.com"
   },
   "require":{
     "php":">=5.4.0",
